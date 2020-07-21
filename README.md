@@ -16,6 +16,7 @@ In the CSV file it is specified the cases by State, Municipality	and date.
 
 ## Data
 * *Covid_19_Mexico_Clean_Complete.csv* - Final csv, data by state and municipality.
+* *Code_State* - Specify the ID per state in Mexico 
 
 ### Differences in results
 According to the official results obtained from: https://coronavirus.gob.mx/datos/
